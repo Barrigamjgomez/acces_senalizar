@@ -1,0 +1,158 @@
+body{
+	background-color: #f7f7f7;
+	font-family: 'Roboto', sans-serif;
+}
+.luz-logo{
+	margin-left: 49em;
+}
+.se-logo{
+	margin-left: 3em;
+}
+.btn-init{
+	padding: 0em 5em 0em 7em;
+}
+.btn-about, .btn-validation, .btn-contac{
+	padding-right: 5em;
+}
+.init, .validation, .about-us, .contact{
+	min-height: 100vh;
+}
+.analizator{
+	margin: 3em 0em 0em 13em;
+}
+.info-search{
+	width: 40em;
+	height: 3em;	
+}
+.search{
+	margin: 1em 0em 0em 16em;
+}
+.form-contact{
+	margin-left: 24em;
+}
+.validator-search{
+	background-color: #ccc8c7;
+}
+.price_table_container{
+	text-align:center;
+	color:#666;
+	margin-top:35px;
+	font-family: 'Open Sans', sans-serif;
+}
+.price_table_heading{
+	font-size:36px;
+	padding:10px;
+	background:#EEE;
+}
+.price_table_row {
+   padding:15px;
+	background: #FFF;
+}
+footer{
+	background-color: #4b4a4a;
+  padding: 0 0 58px 0;
+  margin-bottom: 25px;
+  color: white;
+  
+  font-family: 'Roboto', sans-serif;
+}
+	
+.footer-widget .footer-title{
+	font-weight: 700;
+	font-size:15px;
+}
+.footer-widget .fab{
+	color:white;
+}
+.footer-widget .fab:hover{
+	color:#ffd307;
+}
+.footer-widget ul li a{
+	color:white;
+	font-weight: 700;
+	padding: 0;
+	margin:0;
+}
+/*.footer-widget .footer-title:after{
+	content: "";
+	display: block;
+	width: 20px;
+	height: 1px;
+	background-color: #fff;
+} */
+.navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    list-style: none;
+    background-color: #dfdddd;
+}
+.navbar-collapse{
+    background-color: #d5d3d3;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	 color:#fff;
+	 font-weight:;
+}
+.card{
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%
+}
+.card img{
+	position: relative;
+	height: 100%;
+	width: 100%;
+	filter:brightness(0.7);
+}
+
+a.btn.btn-primary {
+    padding: 10px 52px 9px 53px;  
+    background-color: #ffd307;
+    border: 0;
+    box-shadow: 0px 3px 15px #0d0d0d;
+    font-weight: 300;
+}
+
+a.btn.btn-primary:hover{
+	  background-color: #dfdddd;
+}
+
+nav .collapse ul li a:hover{
+   	background-color: #dfdddd;
+		font-weight: 700;
+}
+
+.card .btn_header{
+    color: #0d0d0d;
+}
+.card-body h5{
+	font-size: 40px;
+  background-color: hsla(0, 0%, 100%, 0.86);
+  width: 560px;
+  margin-left: auto;
+  margin-right: auto
+}
+.card-body p{
+	font-size: 30px;
+  background-color: hsla(0, 0%, 100%, 0.86);
+  width: 775px;
+  margin-left: auto;
+  margin-right: auto
+}
+.card-body{
+	position: absolute;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: auto;
+	
+}
+.bg-light {
+    background-color: #d5d3d3!important;
+}
+
